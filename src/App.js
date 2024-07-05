@@ -1,6 +1,6 @@
 import { Route, Switch } from 'react-router-dom/cjs/react-router-dom.min';
 import './App.css';
-import HomePage from './Layout/HomePage';
+import HomePage from './Layout/Components/HomePage';
 
 function App() {
   return (
