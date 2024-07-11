@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       backgroundImage: {
         'hero-img': "url('/src/assets/Hero/Build.png')",
+        'foot-img': "url('/src/assets/Hero/foot.png')",
       },
       colors: {
         headerTop: '#252B42',
