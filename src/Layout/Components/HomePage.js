@@ -1,6 +1,7 @@
 import Advantage from './HomePage/Advantage';
 import Hero from './HomePage/Hero';
 import OurAttorneys from './HomePage/OurAttorneys';
+import OurExpertise from './HomePage/OurExpertise';
 
 export default function HomePage() {
   return (
@@ -8,6 +9,7 @@ export default function HomePage() {
       <Hero />
       <OurAttorneys />
       <Advantage />
+      <OurExpertise />
     </section>
   );
 }
