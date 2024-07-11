@@ -4,7 +4,7 @@ import HomePage from './Layout/Components/HomePage';
 
 function App() {
   return (
-    <div className="App">
+    <div className="">
       <Switch>
         <Route path="/">
           <HomePage />

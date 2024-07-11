@@ -1,11 +1,9 @@
-import Footer from './Footer';
-import Header from './Header';
+import Hero from './HomePage/Hero';
 
 export default function HomePage() {
   return (
     <section>
-      <Header />
-      <Footer />
+      <Hero />
     </section>
   );
 }
